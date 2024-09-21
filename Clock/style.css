@@ -21,8 +21,8 @@ div{
 .secHand{
     height: 170px;
     position:absolute;
-    left: 766px;
-    top: 200px;
+    left: 770px;
+    top: 220px;
     border-right: 1px solid black;
     animation: secHand;
     animation-duration: 60s;
@@ -44,8 +44,8 @@ div{
 .minHand{
     height: 160px;
     position:absolute;
-    left: 765px;
-    top: 210px;
+    left: 769px;
+    top: 230px;
     border-right: 3px solid black;
     animation: minHand;
     animation-duration: 3600s;
@@ -67,8 +67,8 @@ div{
 .hrHand{
     height: 140px;
     position:absolute;
-    left: 764px;
-    top: 230px;
+    left: 768px;
+    top: 250px;
     border-right: 5px solid black;
     animation: hrHand;
     animation-duration: 216000s;
